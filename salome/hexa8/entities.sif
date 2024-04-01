@@ -1,0 +1,10 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = block
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = boundary
+End
+
